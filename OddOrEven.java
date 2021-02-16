@@ -1,6 +1,6 @@
-package edu.smg;
+package demo;
 
-import demo;
+import java.util.Scanner;
 
 public class OddOrEven {
 
